@@ -77,3 +77,22 @@ a=1_000_0000
 a
 #Quotient
 4//2
+
+
+#To find a letter
+name='This is python class'
+# To find the letter
+name.find('o')
+#To split words
+name.split()
+#To reverse
+''.join(reversed(name))
+#Joins a with every letter
+'a'.join(name)
+#To find whether it is alphabet or numeric
+name.isalnum()
+name.isalpha()
+
+
+
+
