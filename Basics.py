@@ -37,3 +37,23 @@ len(language)
 language.lstrip()
 # To remove the right spaces
 language.rstrip()
+language[0]
+language[4]
+
+message='This is python class'
+message[10:14]
+#Indexing starts form 0 
+
+#Last string
+message[-1]
+#To count the letters
+message.count('t')
+#To find the index
+message.index('t')
+#To find the index
+message.index('T')
+# To find the count -- Total count
+message.count('')
+# To replace a word
+message=message.replace('python','SQL')
+message
