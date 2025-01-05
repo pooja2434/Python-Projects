@@ -57,3 +57,23 @@ message.count('')
 # To replace a word
 message=message.replace('python','SQL')
 message
+
+name='Cat'
+len(name)
+name.count("")
+# Index starts from 0
+#Length starts from 1 and adds 1 again
+#Count starts from 1 and adds 1 again
+
+#Some Arithmetic Operations
+4/1
+3*1
+# Power 2
+3**2
+2+3*4
+0.1+0.2
+#Will ignore space
+a=1_000_0000
+a
+#Quotient
+4//2
